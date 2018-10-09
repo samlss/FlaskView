@@ -1,5 +1,5 @@
 # FlaskView
- [![Api reqeust](https://img.shields.io/badge/api-11+-green.svg)](https://android-arsenal.com/api?level=11#l11) [![Apache License 2.0](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/samlss/FlaskView/blob/master/LICENSE)  [![Blog](https://img.shields.io/badge/samlss-blog-orange.svg)](https://blog.csdn.net/Samlss)
+[![Download](https://api.bintray.com/packages/samlss/maven/flaskview/images/download.svg?version=1.0.0)](https://bintray.com/samlss/maven/flaskview/1.0.0/link)   [![Api reqeust](https://img.shields.io/badge/API-11+-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=11#l11)    [![Apache License 2.0](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/samlss/FlaskView/blob/master/LICENSE)  [![Blog](https://img.shields.io/badge/samlss-blog-orange.svg)](https://blog.csdn.net/Samlss)
 
 A flask loading view.
 
