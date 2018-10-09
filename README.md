@@ -5,7 +5,7 @@ A flask loading view.
 
 ### [More](https://github.com/samlss/FunnyViews)
 
-### [中文](https://www.jianshu.com/p/7aa8f1b09d8e)
+### [中文](https://blog.csdn.net/Samlss/article/details/82983992)
 
 
 <br/>
