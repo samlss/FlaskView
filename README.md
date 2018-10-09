@@ -21,7 +21,7 @@ A flask loading view.
 ### Usage
 
 #### Gradle
-- Add it in your app build.gradle at the end of repositories:
+Add it in your app build.gradle at the end of repositories:
   ```java
   dependencies {
       implementation 'me.samlss:flaskview:1.0.0'
