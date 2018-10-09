@@ -3,6 +3,8 @@ A flask loading view.
 
 ### [More](https://github.com/samlss/FunnyViews)
 
+[![Download](https://api.bintray.com/packages/samlss/maven/flaskview/images/download.svg?version=1.0.0)](https://bintray.com/samlss/maven/flaskview/1.0.0/link)  
+
 <br/>
 
 
