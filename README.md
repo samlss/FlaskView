@@ -4,10 +4,7 @@ A flask loading view.
 ### [More](https://github.com/samlss/FunnyViews)
 
 <br/>
-[![Download](https://api.bintray.com/packages/samlss/maven/flaskview/images/download.svg?version=1.0.0)](https://bintray.com/samlss/maven/flaskview/1.0.0/link)   
-[![Api reqeust](https://img.shields.io/badge/API-11+-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=11#l11)  
-[![Apache License 2.0](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/samlss/FlaskView/blob/master/LICENSE) 
-[![Blog](https://img.shields.io/badge/samlss-blog-orange.svg)](https://blog.csdn.net/Samlss)
+
 
 ![gif1](https://github.com/samlss/FlaskView/blob/master/screenshots/screenshot1.gif)
 
@@ -28,7 +25,6 @@ A flask loading view.
   }
   ```
 
-------
 #### Maven
 ```java
 <dependency>
@@ -38,7 +34,6 @@ A flask loading view.
   <type>pom</type>
 </dependency>
 ```
-------
 
 #### In layout.xml
 
@@ -60,7 +55,6 @@ A flask loading view.
           android:layout_height="match_parent" />
 ```
 
-------
 #### In code
 ```java
  flaskView.setBubbleColor(Color.parseColor("#fff36a")); //Set the color of all the bubbles
@@ -75,7 +69,6 @@ A flask loading view.
  flaskView.release(); //Release the flask view
 ```
 
-------
 
 #### attr
 
