@@ -115,7 +115,7 @@ Add it in your app build.gradle at the end of repositories:
 ```
 
 ### Optimization
-Use a fixed number of containers to recycle bubbles that are no longer in use. When need to create bubble, firstly get them from the recycled container. If there are bubbles in the recycled container, reuse the object, otherwise a new one will be created.[See the code](https://github.com/samlss/FlaskView/blob/master/flaskview/src/main/java/me/samlss/view/FlaskView.java)
+Use a fixed number of containers to recycle bubbles that are no longer in use. When need to create bubble, firstly get them from the recycled container. If there are bubbles in the recycled container, reuse the object, otherwise a new one will be created.[Read the code](https://github.com/samlss/FlaskView/blob/master/flaskview/src/main/java/me/samlss/view/FlaskView.java)
 
 
 ### License
